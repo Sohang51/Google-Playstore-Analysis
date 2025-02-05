@@ -38,8 +38,8 @@ Here are some snapshots of the Power BI dashboard:
    ![Image](https://github.com/user-attachments/assets/a9f4b90d-d952-457f-83db-5c1be703d88f)
 3. **Rating Analysis**:  
    ![Image](https://github.com/user-attachments/assets/ac5708ea-60b9-4072-9989-596159a8b7d0)
-4. **Average Reviews by Category**:  
-   ![Image](https://github.com/user-attachments/assets/ce7aae35-3bbc-4a94-9df3-9367e2f0afd6)  
+4. **Average Ratings by Category**:  
+   ![Image](https://github.com/user-attachments/assets/8e164cd5-143a-4cab-9ed9-05751b2bca3f) 
 
 ---
 
@@ -52,9 +52,9 @@ Explore the interactive Power BI dashboard here:
 ## 🚀 **Key Insights**  
 1. **Category Trends**:  
    - Games and Family categories dominate the Play Store.  
-   - Educational apps have the highest average ratings.  
+   - Word & puzzle apps have the highest average ratings.  
 2. **Installs Analysis**:  
-   - Most apps have between 1,000 and 100,000 installs.  
+   - Most apps have 10 lakhs(+) installs.  
    - Free apps account for the majority of downloads.  
 3. **Rating Insights**:  
    - The average app rating is 4.17.  
